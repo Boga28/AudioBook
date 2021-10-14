@@ -1,69 +1,78 @@
 
  /* {"audioBooks":[
- {"id":"2",
-"baslik":"",
-"aciklama":"",
-"thumbnail":"",
-"kategori":"",
-"yazar":"",
-"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2Fit%20is%20not%20avaliable.mp3?alt=media&token=c09c3a55-b60c-4224-94e2-9aec6076e705",
-"hardWord":"",
-"storyUrl":"",
-"storyAcıklama":"",
+ 
+{"id":"2",
+"name":"",
+"author":"",
+"cover":"",
+"audio":"",
+"chapter":"",
+"category":"",
+"duration":"",
+"description":"",
 "tag":"",
 "views":""},
+
        ]
    }                                         ？  ‛  ⢀
    
        Left Quote    “                    Right Quote    ”      Apostrophe   ‛      ？
        
-    Mixed Books,Recently Added,A1 Starter,A2 Elementary,B1 Pre-Intermediate,B1+ Intermediate,B2 Intermediate+,B2+ Upper-Intermediate,C1 Advanced,C2 Unbridge
-      0    ,        1     ,     2    ,       3     ,          4        ,         5      ,         6      ,          7           ,      8    ,     9
+                    Mixed Books,Recently Added,Love Stories,Adventure,Horror
+                         0     ,       1      ,      2     ,    3    ,  4    
    
    */
 
 
 {"audioBooks":[
-  {"id":"2",
-"baslik":"",
-"aciklama":"",
-"thumbnail":"",
-"kategori":"",
-"yazar":"",
-"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2Fit%20is%20not%20avaliable.mp3?alt=media&token=c09c3a55-b60c-4224-94e2-9aec6076e705",
-"hardWord":"",
-"storyUrl":"",
-"storyAcıklama":"",
-"tag":"",
-"views":""},
+ 
+{"id":"3",
+"name":"Romeo and Juliet",
+"author":"by William Shakespeare",
+"cover":"https://www.luxvide.it/wp-content/uploads/2013/01/locandina-romeo_juliet.jpg",
+"audio":"https://archive.org/download/romeo_and_juliet_librivox/Romeo_and_Juliet_Act_1.mp3¨https://archive.org/download/romeo_and_juliet_librivox/Romeo_and_Juliet_Act_2.mp3¨https://archive.org/download/romeo_and_juliet_librivox/Romeo_and_Juliet_Act_3.mp3¨https://archive.org/download/romeo_and_juliet_librivox/Romeo_and_Juliet_Act_4.mp3¨https://archive.org/download/romeo_and_juliet_librivox/Romeo_and_Juliet_Act_5.mp3",
+"chapter":"Act 1¨Act 2¨Act 3¨Act 4¨Act 5",
+"category":"2",
+"duration":"3:02:02",
+"description":"Romeo and Juliet is perhaps the most famous of Shakespeare's plays and is thought to be the most famous love story in Western history. It concerns the fate of two very young lovers who would do anything to be together.
+
+The Montagues and the Capulets of Verona, Italy, are in the midst of a long-standing feud when Romeo Montague drops in on a masquerade party at the Capulets'. While there he meets and woos the daughter of the house, Juliet. She likewise returns his passion, and their secret meeting later that night on her bedroom balcony begins a series of tragic events that no one could have foretold.",
+"tag":"drama,love",
+"views":"2,664,504 Views"},
+ 
+ {"id":"2",
+"name":"Railway Children",
+"author":"by E. Nesbit",
+"cover":"https://mir-s3-cdn-cf.behance.net/project_modules/disp/5b6a6646001159.5844dfae5813e.jpg",
+"audio":"https://archive.org/download/railway_children_librivox/railwaychildren_01_nesbit.mp3¨https://archive.org/download/railway_children_librivox/railwaychildren_02_nesbit.mp3¨https://archive.org/download/railway_children_librivox/railwaychildren_03_nesbit.mp3¨https://archive.org/download/railway_children_librivox/railwaychildren_04_nesbit.mp3¨https://archive.org/download/railway_children_librivox/railwaychildren_05_nesbit.mp3¨https://archive.org/download/railway_children_librivox/railwaychildren_06_nesbit.mp3¨https://archive.org/download/railway_children_librivox/railwaychildren_07_nesbit.mp3¨https://archive.org/download/railway_children_librivox/railwaychildren_08_nesbit.mp3¨https://archive.org/download/railway_children_librivox/railwaychildren_09_nesbit.mp3¨https://archive.org/download/railway_children_librivox/railwaychildren_10_nesbit.mp3¨https://archive.org/download/railway_children_librivox/railwaychildren_11_nesbit.mp3¨https://archive.org/download/railway_children_librivox/railwaychildren_12_nesbit.mp3¨https://archive.org/download/railway_children_librivox/railwaychildren_13_nesbit.mp3¨https://archive.org/download/railway_children_librivox/railwaychildren_14_nesbit.mp3",
+"chapter":"Chapter 01 - The Beginning of Things¨Chapter 02 - Peter's Coal-mine¨Chapter 03 - The Old Gentleman¨Chapter 04 - The Engine Burglar¨Chapter 05 - Prisoners and Captives¨Chapter 06 - Saviours of the Train¨Chapter 07 - For Valour¨Chapter 08 - The Amateur Firemen¨Chapter 09 - The Pride of Perks¨Chapter 10 - The Terrible Secret¨Chapter 11 - The Hound in the Red Jersey¨Chapter 12 - What Bobbie Brought Home¨Chapter 13 - The Hound's Grandfather¨Chapter 14 - The End",
+"category":"3",
+"duration":"5:01:06",
+"description":"Edith Nesbit's classic story, in which three children, pulled suddenly from their comfortable suburban life, move to the country with their mother, where they come to know and love the ways of the railways. (Summary by Karen Savage)",
+"tag":"literature, children, trains",
+"views":"2,474,471 Views"},
   
  {"id":"1",
-"baslik":"",
-"aciklama":"",
-"thumbnail":"",
-"kategori":"",
-"yazar":"",
-"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2Fit%20is%20not%20avaliable.mp3?alt=media&token=c09c3a55-b60c-4224-94e2-9aec6076e705",
-"hardWord":"",
-"storyUrl":"",
-"storyAcıklama":"",
-"tag":"",
-"views":""} 
+"name":"The Secret Garden",
+"author":"by Frances Hodgson Burnett",
+"cover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa85fI1SE_loSgGF_uzJ_lNqvhmAdzDJEi0Q&usqp=CAU",
+"audio":"https://archive.org/download/secret_garden_librivox/secretgarden_01_burnett.mp3¨https://archive.org/download/secret_garden_librivox/secretgarden_02_burnett.mp3¨https://archive.org/download/secret_garden_librivox/secretgarden_03_burnett.mp3¨https://archive.org/download/secret_garden_librivox/secretgarden_04_burnett.mp3¨https://archive.org/download/secret_garden_librivox/secretgarden_05_burnett.mp3¨https://archive.org/download/secret_garden_librivox/secretgarden_06_burnett.mp3¨https://archive.org/download/secret_garden_librivox/secretgarden_07_burnett.mp3¨https://archive.org/download/secret_garden_librivox/secretgarden_08_burnett.mp3¨https://archive.org/download/secret_garden_librivox/secretgarden_09_burnett.mp3¨https://archive.org/download/secret_garden_librivox/secretgarden_10_burnett.mp3¨https://archive.org/download/secret_garden_librivox/secretgarden_11_burnett.mp3¨https://archive.org/download/secret_garden_librivox/secretgarden_12_burnett.mp3¨https://archive.org/download/secret_garden_librivox/secretgarden_13_burnett.mp3¨https://archive.org/download/secret_garden_librivox/secretgarden_14_burnett.mp3¨https://archive.org/download/secret_garden_librivox/secretgarden_15_burnett.mp3¨https://archive.org/download/secret_garden_librivox/secretgarden_16_burnett.mp3¨https://archive.org/download/secret_garden_librivox/secretgarden_17_burnett.mp3¨https://archive.org/download/secret_garden_librivox/secretgarden_18_burnett.mp3¨https://archive.org/download/secret_garden_librivox/secretgarden_19_burnett.mp3¨https://archive.org/download/secret_garden_librivox/secretgarden_20_burnett.mp3¨https://archive.org/download/secret_garden_librivox/secretgarden_21_burnett.mp3¨https://archive.org/download/secret_garden_librivox/secretgarden_22_burnett.mp3¨https://archive.org/download/secret_garden_librivox/secretgarden_23_burnett.mp3¨https://archive.org/download/secret_garden_librivox/secretgarden_24_burnett.mp3¨https://archive.org/download/secret_garden_librivox/secretgarden_25_burnett.mp3¨https://archive.org/download/secret_garden_librivox/secretgarden_26_burnett.mp3¨https://archive.org/download/secret_garden_librivox/secretgarden_27_burnett.mp3",
+"chapter":"01 - There is No One Left¨02 - Mistress Mary Quite Contrary¨03 - Across the Moor¨04 - Martha¨05 - The Cry in the Corridor¨06 - There was Someone Crying, There Was!¨07 - The Key to the Garden¨08 - The Robin Who Showed the Way¨09 - The Strangest House Anyone Ever Lived In¨10 - Dickon¨11 - The Nest of the Missel Thrush¨12 - Might I have a Bit of Earth?¨13 - I Am Colin¨14 - A Young Rajah¨15 - Nest Building¨16 - I Won't, Said Mary¨17 - A Tantrum¨18 - Tha' Munnot Waste no Time¨19 - It Has Come!¨20 - I Shall Live Forever - and Ever - and Ever!¨21 - Ben Weatherstaff¨22 - When the Sun Went Down¨23 - Magic¨24 - Let Them Laugh¨25 - The Curtain¨26 - It's Mother!¨27 - In The Garden",
+"category":"4",
+"duration":"9:08:25",
+"description":"Mary Lennox is a spoiled, middle-class, self-centred child who has been recently orphaned. She is accepted into the quiet and remote country house of an uncle, who has almost completely withdrawn into himself after the death of his wife. Mary gradually becomes drawn into the hidden side of the house: why does she hear the crying of a unseen child? Why is there an overgrown, walled garden, its door long locked? (Summary by Peter)",
+"tag":"literature, children",
+"views":"4,236,009 Views"}
   ], 
  
  "kategori":[{
  "id":"1",
-"categoryName":"Mixed Books,Recently Added,A1 Starter,A2 Elementary,B1 Pre-Intermediate,B1+ Intermediate,B2 Intermediate+,B2+ Upper-Intermediate,C1 Advanced,C2 Unbridge",
-"categoryCode":"0,1,2,3,4,5,6,7,8,9",
+"categoryName":"Mixed Books,Recently Added,Love Stories,Adventure,Horror",
+"categoryCode":"0,1,2,3,4",
 "categoryImage":"https://github.com/Boga28/book/raw/master/image/mixed_books.jpg,
 https://github.com/Boga28/book/raw/master/image/Recently%20Added.jpg,
 https://github.com/Boga28/book/raw/master/image/A2_Elemantary.jpg,
 https://github.com/Boga28/book/raw/master/image/A1_Starter.jpeg,
-https://github.com/Boga28/book/raw/master/image/B1%20Pre-Intermediate.jpg,
-https://github.com/Boga28/book/raw/master/image/B1%2B%20Intermediate.jpg,
-https://github.com/Boga28/book/raw/master/image/B2%20Intermediate%2B.jpg,
-https://github.com/Boga28/book/raw/master/image/B2%2B%20Upper-Intermediate.jpg,
-https://github.com/Boga28/book/raw/master/image/C1%20Advanced.jpg,
-https://github.com/Boga28/book/raw/master/image/C2%20Unbridge.jpg"
+https://github.com/Boga28/book/raw/master/image/B1%20Pre-Intermediate.jpg
 }]
 }
