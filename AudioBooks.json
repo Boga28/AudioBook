@@ -1,0 +1,69 @@
+
+ /* {"audioBooks":[
+ {"id":"2",
+"baslik":"",
+"aciklama":"",
+"thumbnail":"",
+"kategori":"",
+"yazar":"",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2Fit%20is%20not%20avaliable.mp3?alt=media&token=c09c3a55-b60c-4224-94e2-9aec6076e705",
+"hardWord":"",
+"storyUrl":"",
+"storyAcıklama":"",
+"tag":"",
+"views":""},
+       ]
+   }                                         ？  ‛  ⢀
+   
+       Left Quote    “                    Right Quote    ”      Apostrophe   ‛      ？
+       
+    Mixed Books,Recently Added,A1 Starter,A2 Elementary,B1 Pre-Intermediate,B1+ Intermediate,B2 Intermediate+,B2+ Upper-Intermediate,C1 Advanced,C2 Unbridge
+      0    ,        1     ,     2    ,       3     ,          4        ,         5      ,         6      ,          7           ,      8    ,     9
+   
+   */
+
+
+{"audioBooks":[
+  {"id":"2",
+"baslik":"",
+"aciklama":"",
+"thumbnail":"",
+"kategori":"",
+"yazar":"",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2Fit%20is%20not%20avaliable.mp3?alt=media&token=c09c3a55-b60c-4224-94e2-9aec6076e705",
+"hardWord":"",
+"storyUrl":"",
+"storyAcıklama":"",
+"tag":"",
+"views":""},
+  
+ {"id":"1",
+"baslik":"",
+"aciklama":"",
+"thumbnail":"",
+"kategori":"",
+"yazar":"",
+"sesdosyasi":"https://firebasestorage.googleapis.com/v0/b/english-story-in-levels.appspot.com/o/auido%2Fit%20is%20not%20avaliable.mp3?alt=media&token=c09c3a55-b60c-4224-94e2-9aec6076e705",
+"hardWord":"",
+"storyUrl":"",
+"storyAcıklama":"",
+"tag":"",
+"views":""} 
+  ], 
+ 
+ "kategori":[{
+ "id":"1",
+"categoryName":"Mixed Books,Recently Added,A1 Starter,A2 Elementary,B1 Pre-Intermediate,B1+ Intermediate,B2 Intermediate+,B2+ Upper-Intermediate,C1 Advanced,C2 Unbridge",
+"categoryCode":"0,1,2,3,4,5,6,7,8,9",
+"categoryImage":"https://github.com/Boga28/book/raw/master/image/mixed_books.jpg,
+https://github.com/Boga28/book/raw/master/image/Recently%20Added.jpg,
+https://github.com/Boga28/book/raw/master/image/A2_Elemantary.jpg,
+https://github.com/Boga28/book/raw/master/image/A1_Starter.jpeg,
+https://github.com/Boga28/book/raw/master/image/B1%20Pre-Intermediate.jpg,
+https://github.com/Boga28/book/raw/master/image/B1%2B%20Intermediate.jpg,
+https://github.com/Boga28/book/raw/master/image/B2%20Intermediate%2B.jpg,
+https://github.com/Boga28/book/raw/master/image/B2%2B%20Upper-Intermediate.jpg,
+https://github.com/Boga28/book/raw/master/image/C1%20Advanced.jpg,
+https://github.com/Boga28/book/raw/master/image/C2%20Unbridge.jpg"
+}]
+}
