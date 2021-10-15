@@ -7,7 +7,7 @@
 "cover":"",
 "audio":"",
 "chapter":"",
-"category":"",
+"category":"", 
 "description":"",
 "duration":"",
 "tag":"",
@@ -18,8 +18,8 @@
    
        Left Quote    “                    Right Quote    ”      Apostrophe   ‛      ？
        
-                    Mixed Books,Recently Added,Love Stories,Adventure,Horror
-                         0     ,       1      ,      2     ,    3    ,  4    
+                       Best Audio Books ,Mixed , Recently Added , Love Stories , Adventure ,Horror
+                               0        ,  1   ,       2        ,      3       ,     4     ,  5
    
    */
 
@@ -68,8 +68,9 @@ The Montagues and the Capulets of Verona, Italy, are in the midst of a long-stan
  "kategori":[{
  "id":"1",
 "categoryName":"Mixed,Recently Added,Love Stories,Adventure,Horror",
-"categoryCode":"0,1,2,3,4",
-"categoryImage":"https://github.com/Boga28/book/raw/master/image/mixed_books.jpg,
+"categoryCode":"0,1,2,3,4,5",
+"categoryImage":"https://github.com/Boga28/book/raw/master/image/B1%20Pre-Intermediate.jpg",
+https://github.com/Boga28/book/raw/master/image/mixed_books.jpg,
 https://github.com/Boga28/book/raw/master/image/Recently%20Added.jpg,
 https://github.com/Boga28/book/raw/master/image/A2_Elemantary.jpg,
 https://github.com/Boga28/book/raw/master/image/A1_Starter.jpeg,
