@@ -20,13 +20,28 @@
    
        Left Quote    “                    Right Quote    ”      Apostrophe   ‛      ？
        
-                       Best Audio Books ,Mixed , Recently Added , Love Stories , Adventure ,Horror
-                               0        ,  1   ,       2        ,      3       ,     4     ,  5
+                       Best Audio Books ,Mixed , Recently Added , Love Stories , in History of Education,Adventure ,Horror
+                               0        ,  1   ,       2        ,      3       ,             4          ,    5     ,   6
    
    */
 
 
 {"audioBooks":[
+ 
+ {"id":"4",
+"name":"The Art of War",
+"author":"by Sun Tzu",
+"cover":"https://github.com/Boga28/AudioBook/raw/main/covers/The_Art_of_War.jpg",
+"audio":"https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/The_Art_of_War/art_of_war_01-02_sun_tzu.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/The_Art_of_War/art_of_war_03-04_sun_tzu.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/The_Art_of_War/art_of_war_05-06_sun_tzu.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/The_Art_of_War/art_of_war_07-08_sun_tzu.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/The_Art_of_War/art_of_war_09-10_sun_tzu.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/The_Art_of_War/art_of_war_11_sun_tzu.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/The_Art_of_War/art_of_war_12-13_sun_tzu.mp3",
+"chapter":"1 Laying Plans / 2 Waging War¨3 Attack By Stratagem / 4 Tactical Dispositions¨5 Energy / 6 Weak Points and Strong¨7 Maneuvering - 8 Variation in Tactics¨9 The Army on the March / 10 Terrain¨11 The Nine Situations¨12 The Attack By Fire / 13 The Use of Spies",
+"category":"4",
+"subcategory1":"0",
+"subcategory2":"",
+"description":"“The Art of War is a Chinese military treatise written during the 6th century BC by Sun Tzu. Composed of 13 chapters, each of which is devoted to one aspect of warfare, it has long been praised as the definitive work on military strategies and tactics of its time. The Art of War is one of the oldest and most famous studies of strategy and has had a huge influence on both military planning and beyond. The Art of War has also been applied, with much success, to business and managerial strategies.”
+(summary from Wikipedia)",
+"duration":"1:12:14",
+"tag":"literature, war, strategy, china, war, philosophy",
+"views":"15,704,086 Views"},
  
 {"id":"3",
 "name":"Romeo and Juliet",
@@ -75,11 +90,12 @@ The Montagues and the Capulets of Verona, Italy, are in the midst of a long-stan
  
  "kategori":[{
  "id":"1",
-"categoryName":"Best Audio Books,Mixed,Recently Added,Love Stories,Adventure,Horror",
-"categoryCode":"0,1,2,3,4,5",
+"categoryName":"Best Audio Books,Mixed,Recently Added,Love Stories,in History of Education,Adventure,Horror",
+"categoryCode":"0,1,2,3,4,5,6",
 "categoryImage":"https://github.com/Boga28/book/raw/master/image/B1%20Pre-Intermediate.jpg,
 https://github.com/Boga28/book/raw/master/image/mixed_books.jpg,
 https://github.com/Boga28/book/raw/master/image/Recently%20Added.jpg,
+https://github.com/Boga28/book/raw/master/image/A2_Elemantary.jpg,
 https://github.com/Boga28/book/raw/master/image/A2_Elemantary.jpg,
 https://github.com/Boga28/book/raw/master/image/A1_Starter.jpeg,
 https://github.com/Boga28/book/raw/master/image/B1%20Pre-Intermediate.jpg"
