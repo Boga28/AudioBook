@@ -28,6 +28,22 @@
 {"audioBooks":[
  
  
+
+{"id":"12",
+"name":"The Beach",
+"author":"Alex Garland",
+"cover":"https://github.com/Boga28/AudioBook/raw/main/covers/the_beach.jpg",
+"audio":"https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/The_Beach/The_Beach_Chapter_01.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/The_Beach/The_Beach_Chapter_02.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/The_Beach/The_Beach_Chapter_03.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/The_Beach/The_Beach_Chapter_04.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/The_Beach/The_Beach_Chapter_05.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/The_Beach/The_Beach_Chapter_06.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/The_Beach/The_Beach_Chapter_07.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/The_Beach/The_Beach_Chapter_08.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/The_Beach/The_Beach_Chapter_09.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/The_Beach/The_Beach_Chapter_10.mp3",
+"chapter":"CHAPTER ONE - Bangkok¨CHAPTER TWO - Ko Samui¨CHAPTER THREE - Journey to Paradise¨CHAPTER FOUR - Beach Life¨CHAPTER FIVE - The Rice Run¨CHAPTER SIX - Disaster Strikes¨CHAPTER SEVEN - Unwelcome Newcomers¨CHAPTER EIGHT - Paradise to Hell¨CHAPTER NINE - Escape!¨CHAPTER TEN - Strange but True",
+"category":"5",
+"subcategory1":"0",
+"subcategory2":"",
+"description":"Desire for adventures led Englishman Richard to Bangkok. He settled at a very cheap and untidy hotel, where a madman gave him a map right before he died. On the map, as he said, was the most beautiful beach in the world. It wasn't only the beach actually – all the place was mentioned as a paradise on the Earth. According to the map, the beach was somewhere on a secret Thailand island that was closed for tourists. Richard immediately felt a strong desire to get to the mysterious island. But before he left the mainland, he met French couple and shared his plans with them. They were completely astonished by Richard's idea. Soon the three tourists started their hard way to the hidden paradise, but will what they find in the end?",
+"duration":"10:59:01",
+"tag":"filmed, adventure, nature, novel",
+"views":"1,494,595 views"},
+ 
+ 
 {"id":"11",
 "name":"Wuthering Heights",
 "author":"Emily Bronte",
