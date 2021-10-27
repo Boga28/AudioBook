@@ -26,6 +26,20 @@
    */
 
 {"audioBooks":[
+
+ {"id":"15",
+"name":"Walden",
+"author":"by Henry David Thoreau",
+"cover":"https://github.com/Boga28/AudioBook/raw/main/covers/walden.jpg",
+"audio":"https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/walden/walden_01_p01.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/walden/walden_01_p02.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/walden/walden_01_p03.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/walden/walden_01_p04.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/walden/walden_01_p05.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/walden/walden_02_p01.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/walden/walden_02_p02.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/walden/walden_03.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/walden/walden_04.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/walden/walden_05.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/walden/walden_06.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/walden/walden_07.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/walden/walden_08.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/walden/walden_09.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/walden/walden_10.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/walden/walden_11.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/walden/walden_12.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/walden/walden_13.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/walden/walden_14.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/walden/walden_15.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/walden/walden_16.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/walden/walden_17.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/walden/walden_18.mp3",
+"chapter":"Chapter 01 Part 01¨Chapter 01 Part 02¨Chapter 01 Part 03¨Chapter 01 Part 04¨Chapter 01 Part 05¨Chapter 02 Part 01¨Chapter 02 Part 02¨Chapter 03¨Chapter 04¨Chapter 05¨Chapter 06¨Chapter 07¨Chapter 08¨Chapter 09¨Chapter 10¨Chapter 11¨Chapter 12¨Chapter 13¨Chapter 14¨Chapter 15¨Chapter 16¨Chapter 17¨Chapter 18",
+"category":"4",
+"subcategory1":"0",
+"subcategory2":"",
+"description":"Walden by Henry David Thoreau is one of the best-known non-fiction books written by an American. Published in 1854, it details Thoreau’s life for two years, two months, and two days around the shores of Walden Pond. Walden is neither a novel nor a true autobiography, but a social critique of the Western World, with each chapter heralding some aspect of humanity that needed to be either renounced or praised. Along with his critique of the civilized world, Thoreau examines other issues afflicting man in society, ranging from economy and reading to solitude and higher laws. He also takes time to talk about the experience at Walden Pond itself, commenting on the animals and the way people treated him for living there, using those experiences to bring out his philosophical positions. This extended commentary on nature has often been interpreted as a strong statement to the natural religion that transcendentalists like Thoreau and Emerson were preaching.",
+"duration":"14:17:52",
+"tag":"Novel and Romance",
+"views":"2,960,165 Views"},
  
  {"id":"14",
 "name":"Jane Eyre",
