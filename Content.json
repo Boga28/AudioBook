@@ -27,6 +27,21 @@
 
 {"audioBooks":[
  
+  
+{"id":"19",
+"name":"The Wisdom of Father Brown",
+"author":"by G. K. Chesterton",
+"cover":"https://github.com/Boga28/AudioBook/raw/main/covers/The_Wisdom_of_Father_Brown.jpg",
+"audio":"https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/The_Wisdom_of_Father_Brown/the_wisdom_of_father_brown_01_chesterton_mac_64kb.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/The_Wisdom_of_Father_Brown/the_wisdom_of_father_brown_02_chesterton_mac_64kb.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/The_Wisdom_of_Father_Brown/the_wisdom_of_father_brown_03_chesterton_mac_64kb.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/The_Wisdom_of_Father_Brown/the_wisdom_of_father_brown_04_chesterton_mac_64kb.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/The_Wisdom_of_Father_Brown/the_wisdom_of_father_brown_05_chesterton_mac_64kb.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/The_Wisdom_of_Father_Brown/the_wisdom_of_father_brown_06_chesterton_mac_64kb.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/The_Wisdom_of_Father_Brown/the_wisdom_of_father_brown_07_chesterton_mac_64kb.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/The_Wisdom_of_Father_Brown/the_wisdom_of_father_brown_08_chesterton_mac_64kb.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/The_Wisdom_of_Father_Brown/the_wisdom_of_father_brown_09_chesterton_mac_64kb.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/The_Wisdom_of_Father_Brown/the_wisdom_of_father_brown_10_chesterton_mac_64kb.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/The_Wisdom_of_Father_Brown/the_wisdom_of_father_brown_11_chesterton_mac_64kb.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/The_Wisdom_of_Father_Brown/the_wisdom_of_father_brown_12_chesterton_mac_64kb.mp3",
+"chapter":"Chapter 01¨Chapter 02¨Chapter 03¨Chapter 04¨Chapter 05¨Chapter 06¨Chapter 07¨Chapter 08¨Chapter 09¨Chapter 10¨Chapter 11¨Chapter 12",
+"category":"4",
+"subcategory1":"6",
+"subcategory2":"",
+"description":"Invented by renowned author, essayist and journalist G. K. Chesterton, Father Brown is an amateur sleuth whose day job involves preaching to his congregation at church. Chesterton himself was a committed Christian who wrote volumes of essays and fiction surrounding faith and spirituality, and would base his Father Brown stories upon a priest - Father John O'Connor - he himself knew.",
+"duration":"07:17:20",
+"tag":"Fiction, Literature, Mystery",
+"views":"156,618 Views"},
+ 
  {"id":"18",
 "name":"Lady Audley's Secret",
 "author":"by Mary Elizabeth Braddon",
