@@ -3,6 +3,20 @@
 
 {"audioBooks":[
  
+ {"id":"23",
+"name":"Beowulf",
+"author":"Unknown",
+"cover":"https://github.com/Boga28/AudioBook/raw/main/covers/beaowulf.jpg",
+"audio":"https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/beowulf/beowulf_01_gummere_64kb.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/beowulf/beowulf_02_gummere_64kb.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/beowulf/beowulf_03_gummere_64kb.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/beowulf/beowulf_04_gummere_64kb.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/beowulf/beowulf_05_gummere_64kb.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/beowulf/beowulf_06_gummere_64kb.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/beowulf/beowulf_07_gummere_64kb.mp3¨https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/beowulf/beowulf_08_gummere_64kb.mp3",
+"chapter":"Chapter 01¨Chapter 02¨Chapter 03¨Chapter 04¨Chapter 05¨Chapter 06¨Chapter 07¨Chapter 08",
+"category":"5",
+"subcategory1":"0",
+"subcategory2":"",
+"description":"\tBeowulf is a long narrative poem composed in Old English some time in between the 8th and 11th century AD. The only surviving manuscript that contains the poem is preserved in the British Library and it too was badly damaged by fire in 1731. It is considered to be the oldest surviving work of poetry in English and one of the rare pieces of vernacular European literature that has survived since Medieval times.\n\n\tA prince arrives to rid a neighboring country of a terrible monster. He mortally wounds the horrendous creature and it retreats to die in its lair in the remote mountains. The monster's even more terrifying mother swoops down on the kingdom, prepared to destroy everything in a vengeful frenzy. The valiant prince slays her too and becomes a celebrated hero. Laden with gifts, he returns home to rule his kingdom wisely and well, till suddenly one day, he receives news of a dreadful and powerful dragon attacking the borders of his prosperous kingdom...\n\n\tThere is no evidence to show the authorship of the poem and the manuscript reveals that it was hand-written by two different scribes. The poem originally had no title and it began to be called after its hero Beowulf the Prince of Geats in southern Sweden, only in the 19th century. The manuscript was in the possession of a scholar Lawrence Nowell and survives in a very delicate condition after so many centuries of neglect and mishaps.\n\n\tBeowulf recounts the story of the valiant warrior of Geats who comes to the aid of his neighbor, King Hrothgar whose mead hall is being attacked by a dreadful creature called Grendel. The mead hall was the big feasting hall of the king and sometimes even served as a living quarter for the king and his noblemen in medieval times in Scandinavia and the German parts of Europe. The monster is vanquished, but the next night, the warriors are stunned by the arrival of Grendel's even more loathsome mother, who wreaks havoc on the sleeping victors. Beowulf uses a magical sword to destroy her and returns to his kingdom where he achieves great success and renown as a just and brave ruler. Half a century later, another supernatural creature descends on the peaceful kingdom and Beowulf again takes up arms to ride in to battle.\n\n\tThe poem can be seen as actual history, or as a lyrical ode to a brave king. It has had enormous impact on modern-day fantasy writers and continues to be a seminal work of early English literature.",
+"duration":"2:52:39",
+"tag":"Adventure, Literature, Poetry",
+"views":"164,610 views"},
+ 
  {"id":"22",
 "name":"The Story of Mankind",
 "author":"by Hendrik van Loon",
