@@ -3,6 +3,20 @@
 
 {"audioBooks":[
  
+ {"id":"29",
+"name":"The Road to Migowi",
+"author":"Ken Lipenga",
+"cover":"https://github.com/Boga28/AudioBook/raw/main/covers/The_Road_to_Migowi_Ken_Lipenga.jpg",
+"audio":"https://raw.githubusercontent.com/Boga28/AudioBook/main/Audio/The_Road_to_Migowi/1.mp3",
+"chapter":"CHAPTER ONE",
+"category":"4",
+"subcategory1":"0",
+"subcategory2":"",
+"description":"Boring work remains so in any city, on any continent of the planet. Every day is similar to the previous one. It is full of monotonous actions. If you do this kind of work all your life, it will badly affect your health. The protagonist of this story works as a conductor on the bus. For nine years he has been traveling between two cities. But it seems to him that several centuries have passed. This is the end of March. The road is wet and light rain knocking on the roof of the bus. There are more passengers than usual. This is the very end of a long rainy season. Soon, farmers will start harvesting. But all these things are of little interest for the main character. He always has one desire - to make another journey over as quickly as possible.",
+"duration":"00:13:17",
+"tag":"journey  future  dream  escape  short",
+"views":"104.571 views"},
+ 
  {"id":"28",
 "name":"Brave New World",
 "author":"Aldous Huxley",
@@ -284,13 +298,7 @@
 "category":"4",
 "subcategory1":"",
 "subcategory2":"",
-"description":"Leading Ladies don't need a man to be happy.
-
-After his last telenovela character was killed off, Ashton is worried his career is dead as well. Joining this new cast as a last-minute addition will give him the chance to show off his acting chops to American audiences and ping the radar of Hollywood casting agents. To make it work, he'll need to generate smoking-hot on-screen chemistry with Jasmine. Easier said than done, especially when a disastrous first impression smothers the embers of whatever sexual heat they might have had.
-
-Leading Ladies do not rebound with their new costars.
-
-With their careers on the line, Jasmine and Ashton agree to rehearse in private. But rehearsal leads to kissing, and kissing leads to a behind-the-scenes romance worthy of a soap opera. While their on-screen performance improves, the media spotlight on Jasmine soon threatens to destroy her new image and expose Ashton's most closely guarded secret.",
+"description":"Leading Ladies don't need a man to be happy.\n\nAfter his last telenovela character was killed off, Ashton is worried his career is dead as well. Joining this new cast as a last-minute addition will give him the chance to show off his acting chops to American audiences and ping the radar of Hollywood casting agents. To make it work, he'll need to generate smoking-hot on-screen chemistry with Jasmine. Easier said than done, especially when a disastrous first impression smothers the embers of whatever sexual heat they might have had.\n\nLeading Ladies do not rebound with their new costars.\n\nWith their careers on the line, Jasmine and Ashton agree to rehearse in private. But rehearsal leads to kissing, and kissing leads to a behind-the-scenes romance worthy of a soap opera. While their on-screen performance improves, the media spotlight on Jasmine soon threatens to destroy her new image and expose Ashton's most closely guarded secret.",
 "duration":"10:27:00",
 "tag":"Literature & Fiction, Women's Fiction",
 "views":"138,600 views"},
@@ -304,13 +312,7 @@ With their careers on the line, Jasmine and Ashton agree to rehearse in private.
 "category":"6",
 "subcategory1":"",
 "subcategory2":"",
-"description":"Everyone knows what happens in the end. A mermaid, a prince, a true love’s kiss. But before that young siren’s tale, there were three friends. One feared, one royal, and one already dead.
-
-Ever since her best friend, Anna, drowned, Evie has been an outcast in her small fishing town. A freak. A curse. A witch.
-
-A girl with an uncanny resemblance to Anna appears offshore and, though the girl denies it, Evie is convinced that her best friend actually survived. That her own magic wasn’t so powerless after all. And, as the two girls catch the eyes—and hearts—of two charming princes, Evie believes that she might finally have a chance at her own happily ever after.
-
-But her new friend has secrets of her own. She can’t stay in Havnestad, or on two legs, unless Evie finds a way to help her. Now Evie will do anything to save her friend’s humanity, along with her prince’s heart—harnessing the power of her magic, her ocean, and her love until she discovers, too late, the truth of her bargain.",
+"description":"Everyone knows what happens in the end. A mermaid, a prince, a true love’s kiss. But before that young siren’s tale, there were three friends. One feared, one royal, and one already dead.\n\nEver since her best friend, Anna, drowned, Evie has been an outcast in her small fishing town. A freak. A curse. A witch.\n\nA girl with an uncanny resemblance to Anna appears offshore and, though the girl denies it, Evie is convinced that her best friend actually survived. That her own magic wasn’t so powerless after all. And, as the two girls catch the eyes—and hearts—of two charming princes, Evie believes that she might finally have a chance at her own happily ever after.\n\nBut her new friend has secrets of her own. She can’t stay in Havnestad, or on two legs, unless Evie finds a way to help her. Now Evie will do anything to save her friend’s humanity, along with her prince’s heart—harnessing the power of her magic, her ocean, and her love until she discovers, too late, the truth of her bargain.",
 "duration":"08:25:00",
 "tag":"Science Fiction & Fantasy, Fantasy",
 "views":"1,300,709 views"},
@@ -324,8 +326,7 @@ But her new friend has secrets of her own. She can’t stay in Havnestad, or on 
 "category":"5",
 "subcategory1":"0",
 "subcategory2":"4",
-"description":"The Adventures of Sherlock Holmes is the series of short stories that made the fortunes of the Strand magazine, in which they were first published, and won immense popularity for Sherlock Holmes and Dr Watson. The detective is at the height of his powers and the volume is full of famous cases, including 'The Red-Headed League', 'The Blue Carbuncle', and 'The Speckled Band'. Although Holmes gained a reputation for infallibility, Conan Doyle showed his own realism and feminism by having the great detective defeated by Irene Adler - the woman - in the very first story, 'A Scandal in Bohemia'.
-The editor of this volume, Richard Lancelyn Green is editor of The Uncollected Sherlock Holmes and The Further Adventures of Sherlock Holmes. With John Michael Gibson, he compiled the Soho Series Bibliography of A. Conan Doyle. ",
+"description":"The Adventures of Sherlock Holmes is the series of short stories that made the fortunes of the Strand magazine, in which they were first published, and won immense popularity for Sherlock Holmes and Dr Watson. The detective is at the height of his powers and the volume is full of famous cases, including 'The Red-Headed League', 'The Blue Carbuncle', and 'The Speckled Band'. Although Holmes gained a reputation for infallibility, Conan Doyle showed his own realism and feminism by having the great detective defeated by Irene Adler - the woman - in the very first story, 'A Scandal in Bohemia'.\n\nThe editor of this volume, Richard Lancelyn Green is editor of The Uncollected Sherlock Holmes and The Further Adventures of Sherlock Holmes. With John Michael Gibson, he compiled the Soho Series Bibliography of A. Conan Doyle. ",
 "duration":"11:14:43",
 "tag":"doyle,mystery, sherlock holmes, literature, adventure",
 "views":"6,452,481 Views"}, 
@@ -368,8 +369,7 @@ The editor of this volume, Richard Lancelyn Green is editor of The Uncollected S
 "category":"4",
 "subcategory1":"0",
 "subcategory2":"",
-"description":"“The Art of War is a Chinese military treatise written during the 6th century BC by Sun Tzu. Composed of 13 chapters, each of which is devoted to one aspect of warfare, it has long been praised as the definitive work on military strategies and tactics of its time. The Art of War is one of the oldest and most famous studies of strategy and has had a huge influence on both military planning and beyond. The Art of War has also been applied, with much success, to business and managerial strategies.”
-(summary from Wikipedia)",
+"description":"“The Art of War is a Chinese military treatise written during the 6th century BC by Sun Tzu. Composed of 13 chapters, each of which is devoted to one aspect of warfare, it has long been praised as the definitive work on military strategies and tactics of its time. The Art of War is one of the oldest and most famous studies of strategy and has had a huge influence on both military planning and beyond. The Art of War has also been applied, with much success, to business and managerial strategies.”\n\n(summary from Wikipedia)",
 "duration":"1:12:14",
 "tag":"literature, war, strategy, china, war, philosophy",
 "views":"15,704,086 Views"},
@@ -383,9 +383,7 @@ The editor of this volume, Richard Lancelyn Green is editor of The Uncollected S
 "category":"3",
 "subcategory1":"0",
 "subcategory2":"",
-"description":"Romeo and Juliet is perhaps the most famous of Shakespeare's plays and is thought to be the most famous love story in Western history. It concerns the fate of two very young lovers who would do anything to be together.
-
-The Montagues and the Capulets of Verona, Italy, are in the midst of a long-standing feud when Romeo Montague drops in on a masquerade party at the Capulets'. While there he meets and woos the daughter of the house, Juliet. She likewise returns his passion, and their secret meeting later that night on her bedroom balcony begins a series of tragic events that no one could have foretold.",
+"description":"Romeo and Juliet is perhaps the most famous of Shakespeare's plays and is thought to be the most famous love story in Western history. It concerns the fate of two very young lovers who would do anything to be together.\n\nThe Montagues and the Capulets of Verona, Italy, are in the midst of a long-standing feud when Romeo Montague drops in on a masquerade party at the Capulets'. While there he meets and woos the daughter of the house, Juliet. She likewise returns his passion, and their secret meeting later that night on her bedroom balcony begins a series of tragic events that no one could have foretold.",
 "duration":"3:02:02",
 "tag":"drama,love",
 "views":"2,664,504 Views"},
@@ -423,12 +421,6 @@ The Montagues and the Capulets of Verona, Italy, are in the midst of a long-stan
  "id":"1",
 "categoryName":"Best Audio Books,Mixed,Recently Added,Love Stories,Novel and Romance,Adventure,Fiction & Fantasy",
 "categoryCode":"0,1,2,3,4,5,6",
-"categoryImage":"https://github.com/Boga28/AudioBook/raw/main/IMG/1.jpg,
-https://github.com/Boga28/AudioBook/raw/main/IMG/2.jpg,
-https://github.com/Boga28/AudioBook/raw/main/IMG/recently_added.jpg,
-https://github.com/Boga28/AudioBook/raw/main/IMG/love_stories.jpg,
-https://github.com/Boga28/AudioBook/raw/main/IMG/novel_romance.jpg,
-https://github.com/Boga28/AudioBook/raw/main/IMG/adventure.jpg,
-https://github.com/Boga28/AudioBook/raw/main/IMG/fiction_fantasy.jpg"
+"categoryImage":"https://github.com/Boga28/AudioBook/raw/main/IMG/1.jpg,https://github.com/Boga28/AudioBook/raw/main/IMG/2.jpg,https://github.com/Boga28/AudioBook/raw/main/IMG/recently_added.jpg,https://github.com/Boga28/AudioBook/raw/main/IMG/love_stories.jpg,https://github.com/Boga28/AudioBook/raw/main/IMG/novel_romance.jpg,https://github.com/Boga28/AudioBook/raw/main/IMG/adventure.jpg,https://github.com/Boga28/AudioBook/raw/main/IMG/fiction_fantasy.jpg"
 }]
 }
